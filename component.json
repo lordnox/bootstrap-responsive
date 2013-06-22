@@ -10,6 +10,6 @@
   "development": {},
   "license": "MIT",
   "styles": [
-    "/css/bootstrap-responsive.css"
+    "./css/bootstrap-responsive.css"
   ]
 }
