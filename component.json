@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-responsive",
+  "repo": "lordnox/bootstrap-responsive",
+  "description": "Twitter Bootstrap for component, responsive versio",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "lordnox/bootstrap": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "/css/bootstrap-responsive.css"
+  ]
+}
