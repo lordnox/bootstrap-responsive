@@ -1,5 +1,5 @@
 
-build: components bootstrap-responsive.css
+build: components css/* js/*
 	@component build --dev
 
 components: component.json
